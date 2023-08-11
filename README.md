@@ -15,7 +15,7 @@ In Aseprite go to:
 
 Select the zip
 
-# Exporting
+# Exporting:
 The sprite prefix box has a file dialog to select the save location
 
 ### ***The file extension is automatically removed so don't erase it!***
