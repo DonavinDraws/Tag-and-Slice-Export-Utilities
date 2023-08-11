@@ -1,0 +1,19 @@
+{
+  "name": "export-utils",
+  "displayName": "Tag & Slice Export Utilities",
+  "description": "Export slices and tags as separate Aseprite files or Game Maker Studio compatible sprite sheets, with options for prefixing, upscaling, and selecting specifc slices or tags for export.",
+  "version": "1",
+  "author": { "name": "Donavin Lee",
+              "email": "donavindraws@gmail.com",
+              "url": "https://twitter.com/DonavinDraws" },
+  "contributors": [ ],
+  "publisher": "DonavinDraws",
+  "license": "CC-BY-4.0",
+  "categories": [ "Scripts" ],
+  "contributes": {
+    "scripts": [
+        { "path": "./tag-export.lua" },
+        { "path": "./slice-export.lua" }
+    ]
+  }
+}
