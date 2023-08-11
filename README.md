@@ -15,6 +15,11 @@ In Aseprite go to:
 
 Select the zip
 
+#Exporting
+The sprite prefix box has a file dialog to select the save location
+
+***The file extension is automatically removed so don't erase it!***
+
 # Tag Export:
 ![Screenshot 2023-08-11 170348](https://github.com/DonavinDraws/Tag-and-Slice-Export-Utilities/assets/51259260/c7334ece-b193-4724-84fb-1bbd14264211)
 ## Output:
