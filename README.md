@@ -1,7 +1,7 @@
 # Tag and Slice Export Utilities
 Aseprite plugin suite for exporting tags and slices with simple UI.
 
-Export slices and tags as separate Aseprite files or Game Maker Studio compatible sprite sheets, with options for prefixing, upscaling, and selecting specifc slices or tags for export.
+Export slices and tags as separate Aseprite files or Game Maker Studio compatible sprite sheets, with options for prefixing, upscaling, and selecting specific slices or tags for export.
 
 # Downloading:
 ## Release
